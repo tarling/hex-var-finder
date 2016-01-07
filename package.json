@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://tarling@github.com/tarling/hex-var-finder.git"
   },
-  "author": "James Tarling / LoveHoney",
+  "author": "James Tarling",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tarling/hex-var-finder/issues"
