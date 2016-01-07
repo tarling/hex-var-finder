@@ -1,0 +1,19 @@
+{
+  "name": "hex-var-finder",
+  "version": "0.0.1",
+  "description": "Find closest matching hex colour variable given a style file and an input value",
+  "main": "hex-var-finder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tarling@github.com/tarling/hex-var-finder.git"
+  },
+  "author": "James Tarling / LoveHoney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarling/hex-var-finder/issues"
+  },
+  "homepage": "https://github.com/tarling/hex-var-finder#readme"
+}
